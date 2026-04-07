@@ -1,0 +1,29 @@
+{
+  "dualConfigs": false,
+  "showConsoleLog": false,
+  "desktop": {
+    "shortDelaySeconds": 5,
+    "longDelaySeconds": 15,
+    "delayBetweenPlugins": 40,
+    "defaultStartupType": "short",
+    "showDescriptions": true,
+    "enableDependencies": false,
+    "plugins": {
+      "image-converter": {
+        "startupType": "short"
+      },
+      "obsidian-style-settings": {
+        "startupType": "short"
+      },
+      "obsidian-vimrc-support": {
+        "startupType": "short"
+      },
+      "calendar": {
+        "startupType": "short"
+      },
+      "obsidian-git": {
+        "startupType": "short"
+      }
+    }
+  }
+}

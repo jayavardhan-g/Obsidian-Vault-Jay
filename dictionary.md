@@ -1,0 +1,1 @@
+zero-shot - (Voice cloning) The model can clone a speaker’s voice using _no training_ on that speaker
