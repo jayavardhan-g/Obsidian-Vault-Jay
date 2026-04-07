@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "510a1c4033948029",
+        "id": "dab90978317abebd",
         "type": "tabs",
         "children": [
           {
-            "id": "0b3b7bd583cedb28",
+            "id": "811c5abe9e829ca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "ae78f2def8d4ee6e",
@@ -88,6 +89,7 @@
       {
         "id": "58bc02a2af31edaf",
         "type": "tabs",
+        "dimension": 39.62920046349942,
         "children": [
           {
             "id": "fca660c055678183",
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CP/CodeISM Questions.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CodeISM Questions"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "CP/CodeISM Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from CodeISM Questions"
             }
           },
           {
@@ -151,6 +154,25 @@
             }
           },
           {
+            "id": "0a39fb7af3d6a76f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CP/CodeISM Questions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for CodeISM Questions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2502492ca9329e45",
+        "type": "tabs",
+        "dimension": 37.195828505214365,
+        "children": [
+          {
             "id": "bfef81950bbaf0ce",
             "type": "leaf",
             "state": {
@@ -164,19 +186,14 @@
               "icon": "lucide-list",
               "title": "Outline of CodeISM Questions"
             }
-          },
-          {
-            "id": "0a39fb7af3d6a76f",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Untitled.base"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for Untitled"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0252a6a97ee1d3a6",
+        "type": "tabs",
+        "dimension": 23.174971031286212,
+        "children": [
           {
             "id": "875111d02a8f8b29",
             "type": "leaf",
@@ -187,12 +204,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,54 +222,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b3b7bd583cedb28",
+  "active": "811c5abe9e829ca3",
   "lastOpenFiles": [
+    "CP/CodeISM Questions.md",
+    "CP/Number Theory CodeISM.md",
+    "IITB/Sem 2/SysML/quickstart.md",
+    "CosyVoice2.md",
+    "Tools/Git.md",
+    "dictionary.md",
+    "Tools/Jupyter Notebook.md",
+    "Tools",
+    "Seminar/Seminar Outline ChatGPT.md",
+    "Seminar/Seminar Outline Gemini.md",
+    "Interviews/Hostel Council Interview.md",
+    "CosyVoice1.md",
+    "Interviews",
+    "Seminar/SparkTTS.md",
+    "Seminar/FSQ vs RVQ.md",
+    "Seminar/CosyVoice 2.md",
     "attachments/CodeISM Questions-1775586626883.png",
     "attachments/CodeISM Questions-1775586623928.png",
     "Untitled.canvas",
     "Untitled.base",
-    "CP/CodeISM Questions.md",
     "2026/04/2026-04-07.md",
     "2026/04",
-    "Hostel Council Interview.md",
     "Templates",
-    "Seminar/SparkTTS.md",
-    "Seminar/FSQ vs RVQ.md",
     "attachments/SparkTTS-1775546533105.png",
     "attachments/SparkTTS-1775544776314.png",
     "attachments/SparkTTS-1775544633201.png",
-    "dictionary.md",
-    "Seminar/CosyVoice 2.md",
-    "CosyVoice2.md",
-    "CosyVoice1.md",
     "Seminar/CosyVoice.md",
-    "Seminar Outline Gemini.md",
-    "Seminar Outline ChatGPT.md",
     "attachments/CosyVoice2-1774082946112.png",
     "attachments/CosyVoice2-1774082895906.png",
     "attachments/CosyVoice2-1774081608877.png",
     "attachments/CosyVoice2-1774081460406.png",
     "attachments/CosyVoice1-1774078780087.png",
-    "attachments/CosyVoice1-1774078674430.png",
     "IITB/Sem 2/SysML/Lab Quiz 2.md",
     "Untitled 1.canvas",
     "Dev/Sync.md",
     "Dev",
-    "Git.md",
-    "Jupyter Notebook.md",
     "IITB/Sem 2/SysML/Model.md",
     "IITB/Sem 2/SysML/Tensors.md",
     "IITB/Sem 2/SysML/1. Intro.md",
     "attachments",
-    "IITB/Sem 2/SysML/quickstart.md",
     "IITB/Sem 2/Communication Skills.md",
     "IITB/Sem 2/SysML",
     "IITB/Sem 2",
     "IITB",
     "2026/02/2026-02-03.md",
     "2026-02-03.md",
-    "2026/02",
-    "2026",
     "Untitled 5.md",
     "Untitled 3.md"
   ]

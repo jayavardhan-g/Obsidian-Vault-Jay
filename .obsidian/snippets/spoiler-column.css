@@ -1,0 +1,42 @@
+/* ============================= */
+/* COLUMN-SPECIFIC MASK (1 → 10) */
+/* ============================= */
+
+.hide-1 td:nth-child(1) .table-cell-wrapper:not(:has(br)),
+.hide-2 td:nth-child(2) .table-cell-wrapper:not(:has(br)),
+.hide-3 td:nth-child(3) .table-cell-wrapper:not(:has(br)),
+.hide-4 td:nth-child(4) .table-cell-wrapper:not(:has(br)),
+.hide-5 td:nth-child(5) .table-cell-wrapper:not(:has(br)),
+.hide-6 td:nth-child(6) .table-cell-wrapper:not(:has(br)),
+.hide-7 td:nth-child(7) .table-cell-wrapper:not(:has(br)),
+.hide-8 td:nth-child(8) .table-cell-wrapper:not(:has(br)),
+.hide-9 td:nth-child(9) .table-cell-wrapper:not(:has(br)),
+.hide-10 td:nth-child(10) .table-cell-wrapper:not(:has(br)) {
+
+    color: transparent;
+    background-color: var(--text-normal);
+    border-radius: 4px;
+
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+/* ============================= */
+/* REVEAL */
+/* ============================= */
+
+.hide-1 td:nth-child(1):focus-within .table-cell-wrapper,
+.hide-2 td:nth-child(2):focus-within .table-cell-wrapper,
+.hide-3 td:nth-child(3):focus-within .table-cell-wrapper,
+.hide-4 td:nth-child(4):focus-within .table-cell-wrapper,
+.hide-5 td:nth-child(5):focus-within .table-cell-wrapper,
+.hide-6 td:nth-child(6):focus-within .table-cell-wrapper,
+.hide-7 td:nth-child(7):focus-within .table-cell-wrapper,
+.hide-8 td:nth-child(8):focus-within .table-cell-wrapper,
+.hide-9 td:nth-child(9):focus-within .table-cell-wrapper,
+.hide-10 td:nth-child(10):focus-within .table-cell-wrapper {
+
+    color: var(--text-normal);
+    background-color: transparent;
+}
+

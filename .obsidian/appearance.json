@@ -1,5 +1,8 @@
 {
   "cssTheme": "",
   "accentColor": "#f5915c",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "spoiler-column"
+  ]
 }

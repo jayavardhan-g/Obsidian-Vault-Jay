@@ -1,7 +1,5 @@
 ---
 tags:
-  - ml
-  - code
 ---
 ```python
 import torch
