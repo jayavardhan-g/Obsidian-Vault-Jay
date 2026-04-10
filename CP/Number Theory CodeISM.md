@@ -37,7 +37,8 @@ Find GCD and then LCM
 __gcd(a,b); // Gives GCD of a,b -> Inbuilt function
 ```
 
-## Finding Prime
+## Finding Prime - Sieve of Erasthones
+
 
 ```c++
 isPrime[1]=0;  
@@ -50,7 +51,7 @@ for(int i=2;i*i<=1000000;i++){
 	}  
 }
 ```
-
+**Time complexity = $O(n \times log(log(n))$**
 
 # Important built in functions
 
@@ -66,7 +67,7 @@ Modulus
 1. $(a+b)\%m =  ((a\%m)+(b\%m))\%m$
 2. $(a-b)\%m = ((a\%m)-(b\%m)+m)\%m$
 3. $(a*b)\%m = ((a\%m)*(b\%m))\%m$
-4. $(a/b)\%m = ((a\%m)*(b^-1\%m))\%m$
+4. $(a/b)\%m = ((a\%m)*(b^{-1}\%m))\%m$
 
 
  If $(a-b)\%k = (x-y)$ then $(a-x)\%k = (b-y)\%k$

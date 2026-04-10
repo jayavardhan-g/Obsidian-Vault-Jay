@@ -3,6 +3,7 @@
   "accentColor": "#f5915c",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "spoiler-column"
+    "spoiler-column",
+    "highlight"
   ]
 }

@@ -1,0 +1,42 @@
+/* --- EXTENDED SMART HIGHLIGHTS --- */
+
+/* 1. Default Highlight: ==text== (Yellow) */
+.markdown-rendered mark,
+.cm-highlight {
+    background-color: rgba(255, 215, 0, 0.3) !important; 
+}
+
+/* 2. Bold Highlight: ==**text**== (Red) */
+.markdown-rendered mark:has(strong) { background-color: rgba(255, 0, 0, 0.4) !important; }
+.markdown-rendered mark:has(strong) strong { color: #ff6666 !important; }
+.cm-line .cm-highlight.cm-strong { 
+    background-color: rgba(255, 0, 0, 0.4) !important; 
+    color: #ff6666 !important; 
+}
+
+/* 3. Italic Highlight: ==*text*== (Blue) */
+.markdown-rendered mark:has(em) { background-color: rgba(0, 136, 255, 0.4) !important; }
+.cm-line .cm-highlight.cm-em { background-color: rgba(0, 136, 255, 0.4) !important; }
+
+/* 4. Code Highlight: ==`text`== (Green) */
+.markdown-rendered mark:has(code) { background-color: rgba(0, 255, 100, 0.3) !important; }
+.markdown-rendered mark code { 
+    background: transparent !important; 
+    color: #10b95b !important; 
+}
+.cm-line .cm-highlight.cm-inline-code { 
+    background-color: rgba(0, 255, 100, 0.3) !important; 
+    color: #10b95b !important; 
+}
+
+/* 5. Strikethrough Highlight: ==~~text~~== (Purple) */
+.markdown-rendered mark:has(del), .markdown-rendered mark:has(s) { background-color: rgba(180, 0, 255, 0.4) !important; }
+.markdown-rendered mark del, .markdown-rendered mark s { 
+    text-decoration: none !important; 
+    color: #d477ff !important; 
+}
+.cm-line .cm-highlight.cm-strikethrough { 
+    background-color: rgba(180, 0, 255, 0.4) !important; 
+    text-decoration: none !important; 
+    color: #d477ff !important; 
+}

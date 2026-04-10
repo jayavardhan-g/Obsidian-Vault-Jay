@@ -1,6 +1,3 @@
----
-tags:
----
 ```python
 import torch
 from torch import nn

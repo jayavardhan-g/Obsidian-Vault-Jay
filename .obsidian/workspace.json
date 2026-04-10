@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dab90978317abebd",
+        "id": "d58812337f7caa7f",
         "type": "tabs",
         "children": [
           {
-            "id": "811c5abe9e829ca3",
+            "id": "f8227563382d8fa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "ae78f2def8d4ee6e",
@@ -89,7 +88,7 @@
       {
         "id": "58bc02a2af31edaf",
         "type": "tabs",
-        "dimension": 39.62920046349942,
+        "dimension": 42.93981481481482,
         "children": [
           {
             "id": "fca660c055678183",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CP/CodeISM Questions.md",
+                "file": "CP/Number Theory CodeISM.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CodeISM Questions"
+              "title": "Backlinks for Number Theory CodeISM"
             }
           },
           {
@@ -116,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CP/CodeISM Questions.md",
+                "file": "CP/Number Theory CodeISM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CodeISM Questions"
+              "title": "Outgoing links from Number Theory CodeISM"
             }
           },
           {
@@ -140,6 +139,18 @@
             }
           },
           {
+            "id": "0a39fb7af3d6a76f",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "CP/CodeISM Questions.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for CodeISM Questions"
+            }
+          },
+          {
             "id": "2edf476025f744d7",
             "type": "leaf",
             "state": {
@@ -154,23 +165,22 @@
             }
           },
           {
-            "id": "0a39fb7af3d6a76f",
+            "id": "e3d233fb9ffd205d",
             "type": "leaf",
             "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "CP/CodeISM Questions.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for CodeISM Questions"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "2502492ca9329e45",
         "type": "tabs",
-        "dimension": 37.195828505214365,
+        "dimension": 57.06018518518518,
         "children": [
           {
             "id": "bfef81950bbaf0ce",
@@ -188,27 +198,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "0252a6a97ee1d3a6",
-        "type": "tabs",
-        "dimension": 23.174971031286212,
-        "children": [
-          {
-            "id": "875111d02a8f8b29",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,35 +215,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811c5abe9e829ca3",
+  "active": "f8227563382d8fa2",
   "lastOpenFiles": [
-    "CP/CodeISM Questions.md",
     "CP/Number Theory CodeISM.md",
-    "IITB/Sem 2/SysML/quickstart.md",
+    "CP/ETF - Euler Totient Function.md",
+    "CP/CodeISM Questions.md",
+    "Seminar/CosyVoice 2.md",
+    "CosyVoice1.md",
     "CosyVoice2.md",
-    "Tools/Git.md",
+    "Seminar/CosyVoice.md",
+    "Seminar/Seminar Outline ChatGPT.md",
+    "Seminar/SparkTTS.md",
     "dictionary.md",
+    "Untitled.base",
+    "Seminar/FSQ vs RVQ.md",
+    "Seminar/Seminar Outline Gemini.md",
+    "IITB/Sem 2/SysML/quickstart.md",
+    "Tools/Git.md",
     "Tools/Jupyter Notebook.md",
     "Tools",
-    "Seminar/Seminar Outline ChatGPT.md",
-    "Seminar/Seminar Outline Gemini.md",
     "Interviews/Hostel Council Interview.md",
-    "CosyVoice1.md",
     "Interviews",
-    "Seminar/SparkTTS.md",
-    "Seminar/FSQ vs RVQ.md",
-    "Seminar/CosyVoice 2.md",
     "attachments/CodeISM Questions-1775586626883.png",
     "attachments/CodeISM Questions-1775586623928.png",
     "Untitled.canvas",
-    "Untitled.base",
     "2026/04/2026-04-07.md",
     "2026/04",
     "Templates",
     "attachments/SparkTTS-1775546533105.png",
     "attachments/SparkTTS-1775544776314.png",
     "attachments/SparkTTS-1775544633201.png",
-    "Seminar/CosyVoice.md",
     "attachments/CosyVoice2-1774082946112.png",
     "attachments/CosyVoice2-1774082895906.png",
     "attachments/CosyVoice2-1774081608877.png",
@@ -269,8 +263,6 @@
     "IITB/Sem 2",
     "IITB",
     "2026/02/2026-02-03.md",
-    "2026-02-03.md",
-    "Untitled 5.md",
-    "Untitled 3.md"
+    "2026-02-03.md"
   ]
 }
