@@ -106,6 +106,11 @@ The speech tokenizer consists of a global tokenizer and a semantic tokenizer. Us
 
 
 
+# Doubts
+
+1. Decoder size?
+2. How do they know if Attributes provided are working and what is the measure for that?
+
 
 
 

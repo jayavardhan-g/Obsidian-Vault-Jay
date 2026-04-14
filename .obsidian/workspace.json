@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CP/CodeISM Questions.md",
+                "file": "Seminar/SparkTTS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CodeISM Questions"
+              "title": "SparkTTS"
             }
           }
         ]
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CP/CodeISM Questions.md",
+                "file": "Seminar/SparkTTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CodeISM Questions"
+              "title": "Outline of SparkTTS"
             }
           }
         ]
@@ -217,13 +217,15 @@
   },
   "active": "f8227563382d8fa2",
   "lastOpenFiles": [
-    "CP/Number Theory CodeISM.md",
+    "Seminar/CosyVoice 2.md",
+    "Seminar/CosyVoice.md",
+    "IITB/Sem 2/Communication Skills.md",
+    "attachments/Communication Skills-1775993449458.png",
     "CP/ETF - Euler Totient Function.md",
     "CP/CodeISM Questions.md",
-    "Seminar/CosyVoice 2.md",
+    "CP/Number Theory CodeISM.md",
     "CosyVoice1.md",
     "CosyVoice2.md",
-    "Seminar/CosyVoice.md",
     "Seminar/Seminar Outline ChatGPT.md",
     "Seminar/SparkTTS.md",
     "dictionary.md",
@@ -249,7 +251,6 @@
     "attachments/CosyVoice2-1774082895906.png",
     "attachments/CosyVoice2-1774081608877.png",
     "attachments/CosyVoice2-1774081460406.png",
-    "attachments/CosyVoice1-1774078780087.png",
     "IITB/Sem 2/SysML/Lab Quiz 2.md",
     "Untitled 1.canvas",
     "Dev/Sync.md",
@@ -258,7 +259,6 @@
     "IITB/Sem 2/SysML/Tensors.md",
     "IITB/Sem 2/SysML/1. Intro.md",
     "attachments",
-    "IITB/Sem 2/Communication Skills.md",
     "IITB/Sem 2/SysML",
     "IITB/Sem 2",
     "IITB",
